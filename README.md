@@ -2,7 +2,8 @@
 
 🌱 Aspiring Data Analyst Sharing about my journey..
 ⚡ Studied MCA at Visvesvaraya Technological University, Bangalore..
-
+🔭 I’m currently learning  SQL ...
+👯 I’m looking to collaborate on Data Analysis...
 
 
 # 💻 Tech Stack
